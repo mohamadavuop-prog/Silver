@@ -16,5 +16,11 @@
         "key": "mohamad",
         "expirydate": "30-12-9999",
         "Allowoffline": false
+    },
+{
+        "device_id": "11212a6d1f5dfed4",
+        "key": "Capudo4926266",
+        "expirydate": "30-12-9999",
+        "Allowoffline": false
     }
 ]
